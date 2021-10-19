@@ -22,8 +22,13 @@
 
 /* Tooltip text */
 .tooltiptext {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  line-height: 10px;
   opacity: 0;
-  width: 120px;
+  width: 140px;
+  height: 60px;
   background-color: black;
   color: #fff;
   text-align: center;
