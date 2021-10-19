@@ -7,13 +7,13 @@ function App() {
       <br />
       <br />
       <br />
-      <div class="MainDiv">
+      <div class="myFlexDiv">
         <TooltipComponent TooltipText="سبز" />
         <TooltipComponent TooltipText="قرمز" />
       </div>
       <br />
       <br />
-      <div class="MainDiv">
+      <div class="myFlexDiv">
         <TooltipComponent TooltipText="آبی" />
         <TooltipComponent TooltipText="سفید" />
       </div>
